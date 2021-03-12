@@ -146,3 +146,24 @@
      width: 100%;
     }
 }
+
+.footer {
+  background-color: #0c051f;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  float: left;
+  padding: 20px 30px;
+}
