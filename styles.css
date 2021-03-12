@@ -165,5 +165,6 @@
 
 .footer-list li {
   float: left;
+  list-style: none;
   padding: 20px 30px;
 }
