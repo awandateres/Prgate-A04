@@ -37,6 +37,7 @@
   .header-list li {
     float: left;
     padding: 33px 20px;
+    list.style: none;
   }
 
   .container {
@@ -143,6 +144,7 @@
 .footer-list li {
   float: left;
   padding: 20px 30px;
+  list.style: none;
 }
 
 @media all and (max-width: 1000px) {
