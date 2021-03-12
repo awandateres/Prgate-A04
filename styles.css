@@ -18,30 +18,26 @@
     color: white;
   }
 
-  .container{
+  .container {
     max-width: 1170px;
     padding: 0 15px;
     margin: 0 auto;
-
   }
 
-  .top-wrapper{
+  .top-wrapper {
       text-align: center;
       padding: 100px 0 50px 0;
-      
   }
 
-  .top-wrapper-inner{
+  .top-wrapper-inner {
       padding: 10px 40px 40px 40px;
       background-color: rgb(216,216,254);
       border-radius: 5px;
       height: fit-content;
-      
-
   }
 
-  .top-wrapper h1{
-      border-bottom: 1px solid  rgb(112,112,254)  ;
+  .top-wrapper h1 {
+      border-bottom: 1px solid  rgb(112,112,254);
       font-size: 60px;
       letter-spacing: 10px;
       color:rgb(112,112,254);
@@ -49,14 +45,14 @@
       padding: 40px 4px;
   }
 
-  .top-wrapper p{
+  .top-wrapper p {
       padding: 30px 50px;
       font-size: 20px;
       color:rgb(112,112,254);
       opacity: 0.7;
       line-height: 30px;
-
   }
+
   .button {
     margin-top: 15px;
     margin-left: auto;
@@ -65,42 +61,42 @@
     text-align: center;
     width: 40%;
     background-color:  rgb(75, 75, 185);
-
   }
   
-  .button a{
+  .button a {
     padding: 12px 20px;
     opacity: 0.8;
     color: white;
     display: block;
   }
  
-  .button:hover{
+  .button:hover {
     background-color:  rgb(59, 59, 167);
   }
-  .konten{
+
+  .konten {
       margin-top: 50px;
       text-align: center;
       height: 300px;
       color: rgb(112,112,254);
   }
-  .heading{
+
+  .heading {
       font-size: 12px;
-      
   }
-  .isiKonten{
+
+  .isiKonten {
       padding-top: 30px;
       padding-bottom: 30px;
       float: left;
       width: 25%;
   }
 
-
-  .txt-contents{
+  .txt-contents {
       padding-top: 10px;
   }
 
-  .iconKonten{
+  .iconKonten {
     background-color: rgb(112,112,254);
     margin: 5px 20px 5px 20px;
     padding: 80px;
@@ -109,31 +105,27 @@
 
 
 @media all and (max-width: 1000px) {
-
-    .isiKonten{
+    .isiKonten {
      width: 50%;
      padding-top: 5px;
     }
-
 }
 
 @media all and (max-width: 670px) {
-    .top-wrapper h1{
+    .top-wrapper h1 {
       font-size: 28px;
     }
 
-    .button{
+    .button {
       width: 100%;
     }
 
-    .top-wrapper p{
+    .top-wrapper p {
         padding: 30px 50px;
         font-size: 15px;
     }
 
-    .isiKonten{
+    .isiKonten {
      width: 100%;
     }
-
-
 }
