@@ -13,6 +13,10 @@
     font-family: "Lucida Grande";
   }
 
+  li {
+    list.style: none;
+  }
+
   a {
     text-decoration: none;
     color: white;
