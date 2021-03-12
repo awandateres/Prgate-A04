@@ -18,6 +18,23 @@
     color: white;
   }
 
+  .header {
+    background-color: #6c6cfe;
+    color: #fff;
+    height: 90px;
+    }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+
   .container {
     max-width: 1170px;
     padding: 0 15px;
